@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.product {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.img {
+  width: 20rem;
+  height: 20rem;
+  margin: 1rem 1rem;
+}
+.footer {
+  text-align: center;
+}
+.lt {
+  margin: 0% 4%;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 600;
+}
+.gt {
+  margin: 0% 4%;
+  cursor: pointer;
+}
